@@ -7,3 +7,6 @@ number = 5.346436
 a = np.round(number)
 print(a)
 ```
+- [x] Turn on GitHub Pages
+- [ ] Learn some Markdown basics
+- [ ] Rule the world coding
